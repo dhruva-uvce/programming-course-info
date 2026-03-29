@@ -30,10 +30,7 @@ By the end, you will be confident writing clean Python code and solving standard
 
 | | |
 |-|--|
-| **Name** | <!-- Your name --> |
-| **Email** | <!-- Your email --> |
-| **WhatsApp group** | <!-- Link or say "join via invite link shared in class" --> |
-
+| **Name** | Shreyank Shukla |
 ---
 
 ## How Assignments Work
