@@ -23,7 +23,6 @@ By the end, you will be confident writing clean Python code and solving standard
 |--------|------|
 | In-person class | Every Friday |
 | Online repeat | Every Saturday |
-| Class time | <!-- e.g., 10:00 AM – 12:00 PM --> |
 
 ---
 
