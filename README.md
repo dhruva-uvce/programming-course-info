@@ -47,7 +47,7 @@ By the end, you will be confident writing clean Python code and solving standard
 
 ## Setting Up Your Computer
 
-You need two things installed:
+> **Don't have a computer?** See the [Using a Phone](#using-a-phone) section below.
 
 ### 1. Python
 - Download from: https://www.python.org/downloads/
@@ -66,6 +66,22 @@ You need two things installed:
 - Sign up at: https://github.com
 - Use your college email if possible
 - When you receive the assignment invite link, click it — GitHub Classroom will add you automatically
+
+---
+
+## Using a Phone
+
+If you do not have a computer, you can still complete all assignments using your Android phone.
+
+**Step 1 — Write and run Python on your phone**
+- Install **Pydroid 3** from the Play Store — it lets you write and run Python offline
+- Alternatively, use **Replit** in your phone browser at https://replit.com — no install needed, works on any phone
+
+**Step 2 — Submit your assignment**
+- Install the **GitHub** app from the Play Store
+- Open your assignment repo, navigate to the `.py` file, tap the pencil icon to edit, paste your code, and commit
+
+That's it — the submission process is the same as on a computer.
 
 ---
 
